@@ -3,4 +3,8 @@
 Taller de Control de Version - Git
 
 ## Integrantes 
-Karim Castillo  
+Karim Castillo      
+
+## Tecnologias 
+Git
+VsCode
