@@ -8,3 +8,6 @@ Karim Castillo
 ## Tecnologias 
 Git
 VsCode
+
+## Estado del problema
+Actividad git realizada
