@@ -8,3 +8,6 @@ Karim Castillo
 ## Tecnologias 
 Git
 VsCode
+
+## Estado del problema
+Proyecto en estado de desarollo -v1.0
